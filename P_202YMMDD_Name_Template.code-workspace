@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"oracleOptions": {
+					"privilege": "Normal",
+					"thickMode": false,
+					"autoCommit": false,
+					"lowerCase": false,
+					"limitPrefetchRows": false
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 1521,
+				"driver": "Oracle",
+				"name": "Oracle23ai",
+				"database": "FREEPDB1",
+				"username": "LUIS",
+				"password": "P45tr4n4L3mu5"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "Postgre",
+				"database": "dataAnalysis",
+				"username": "luis",
+				"password": "P45tr4n4L3mu5"
+			},
+			{
+				"oracleOptions": {
+					"privilege": "Normal",
+					"thickMode": false,
+					"autoCommit": false,
+					"lowerCase": false,
+					"limitPrefetchRows": false
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 1521,
+				"driver": "Oracle",
+				"name": "Oracle23ai_docker",
+				"database": "FREEPDB1",
+				"username": "LUIS",
+				"password": "P45tr4n4L3mu5"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "Postgre_Suse",
+				"database": "dataanalysis",
+				"username": "luis",
+				"password": "dataanalysis"
+			}
+		]
+	}
+}
