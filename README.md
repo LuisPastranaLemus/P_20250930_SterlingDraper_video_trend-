@@ -1,5 +1,5 @@
 # 🧭 Project Analysis
-In a role of a video advertising analyst at Sterling & Draper. The objective is to analyze historical YouTube trends using a dashboard in Tableau Public, using data from the trending_by_time table.
+In a role of a video advertising analyst at Sterling & Draper. The objective is to analyze historical YouTube trends using a dashboard in Tableau Public, using data from the trending_by_time.csv table.
 
 The dashboard allows you to:
 
@@ -13,7 +13,7 @@ The tool is designed for advertising planning managers, who use it daily to iden
 
 ## 🔍 Project Overview (P-202YMMDD_Name)
 
-Using the trending_by_time dataset, an interactive Tableau Public dashboard was developed to track daily and weekly trends across categories, countries, and timeframes. The dashboard is refreshed every 24 hours and integrates filters by date and region, ensuring flexible exploration of key metrics. The solution is tailored for video planning managers, enabling them to quickly identify high-performing categories, understand geographic differences, and optimize marketing decisions based on evolving audience preferences.
+Using the trending_by_time.csv dataset, an interactive Tableau Public dashboard was developed to track daily and weekly trends across categories, countries, and timeframes. The dashboard is refreshed every 24 hours and integrates filters by date and region, ensuring flexible exploration of key metrics. The solution is tailored for video planning managers, enabling them to quickly identify high-performing categories, understand geographic differences, and optimize marketing decisions based on evolving audience preferences.
 
 Key questions:
 
@@ -24,7 +24,7 @@ Key questions:
 
 Project Info explanation
 
-The engineers prepared an aggregated table named trending_by_time, hosted in the youtube database and exported as trending_by_time.csv for this project. The table is refreshed daily at midnight UTC, ensuring up-to-date insights.
+The engineers prepared an aggregated table named trending_by_time.csv, hosted in the youtube database and exported as trending_by_time.csv for this project. The table is refreshed daily at midnight UTC, ensuring up-to-date insights.
 
 Considerations
 
