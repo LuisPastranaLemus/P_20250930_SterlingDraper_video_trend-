@@ -11,7 +11,7 @@ The tool is designed for advertising planning managers, who use it daily to iden
 
 ---
 
-## 🔍 Project Overview (P-202YMMDD_Name)
+## 🔍 Project Overview (P_20250930_SterlingDraper_video_trend)
 
 Using the trending_by_time.csv dataset, an interactive Tableau Public dashboard was developed to track daily and weekly trends across categories, countries, and timeframes. The dashboard is refreshed every 24 hours and integrates filters by date and region, ensuring flexible exploration of key metrics. The solution is tailored for video planning managers, enabling them to quickly identify high-performing categories, understand geographic differences, and optimize marketing decisions based on evolving audience preferences.
 
